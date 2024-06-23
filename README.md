@@ -2,5 +2,5 @@
 
 Integrate whatsApp Chats with webApp using API<br>
 Click the icon and it will direct the process into whatsapp<br>
-![ss](image.png)
+![ss](image.png)<br><br>
 Change the <phone_number> in html file
